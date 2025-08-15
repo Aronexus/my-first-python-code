@@ -27,18 +27,3 @@ Calculates days alive
 
 Calculates days until 100
 python lesson1_age_in_days.py
-
-📊 Progress Tracker
-Lesson No.	File Name	Topic	Status
-1	hello.py	Printing text in Python	✅ Completed
-1.5	lesson1_age_in_days.py	Variables, input, basic math	✅ Completed
-
-
----
-
-**3. Save the file**  
-**4. Run these in your VS Code terminal:**
-```powershell
-git add README.md
-git commit -m "Updated README with lessons and tracker"
-git push
