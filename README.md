@@ -1,29 +1,32 @@
 # My First Python Code
+This repository documents my journey from absolute beginner to full-stack AI developer over the next 2 years. Each lesson will be saved here as a working Python file, with explanations and instructions.
 
-This repository documents my journey from **absolute beginner** to **full-stack AI developer** over the next 2 years.  
-Each lesson will be saved here as a working Python file, with explanations and instructions.
+## 📂 Lessons & Projects
+### 1. hello.py
+Description:
+- Prints "Hello, world!"
+- Prints a personal motivational message
+
+Run:
+python hello.py
 
 ---
 
-## 📂 Lessons & Projects
+### 1.5 lesson1_age_in_days.py
+Description:
+- Asks for name and age
+- Calculates days alive (approximate)
+- Calculates days until age 100
 
-### 1. `hello.py`
-**Description:**  
-My first Python program that prints:
-- `"Hello, world!"`
-- A personal motivational message
-
-**Run:**
-```bash
-python hello.py
-
-2. lesson1_age_in_days.py
-
-Asks for:
-
-Name and age
-
-Calculates days alive
-
-Calculates days until 100
+Run:
 python lesson1_age_in_days.py
+
+---
+
+## 📊 Progress Tracker
+| Lesson No. | File Name                | Topic                        | Status       |
+|------------|--------------------------|------------------------------|--------------|
+| 1          | hello.py                 | Printing text in Python      | ✅ Completed |
+| 1.5        | lesson1_age_in_days.py   | Variables, input, basic math | ✅ Completed |
+
+---
